@@ -29,7 +29,7 @@ This lab focuses on the reconnaissance phase of ethical hacking using both passi
 
 ## 📷 Screenshots
 
-
+peekyou-output.png
 ---
 
 ## 🧠 Key Takeaways
